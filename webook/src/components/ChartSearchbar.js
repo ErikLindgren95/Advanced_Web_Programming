@@ -13,7 +13,7 @@ class ChartSearchBar extends Component {
     data: [],
   };
   onChange = (event, value) => {
-    const apiKey = "5KWLLDXCF5UZV6L8";
+    const apiKey = ""; //Need to add apiKey here 
     let apiCall = `https://www.alphavantage.co/query?function=OVERVIEW&symbol=${value}&apikey=${apiKey}`;
     if(value) {
       fetch(apiCall)

@@ -1,0 +1,85 @@
+{
+  "App": {
+    "background":"white"
+  },
+  "card": {
+    "display": "flex",
+    "margin": "20px auto auto auto",
+    "width": "550px",
+    "borderRadius": "10px"
+  },
+  "profileCard": {
+    "margin": "20px 40px 20px 20px", 
+    "width": "",
+    "borderRadius": ""
+  },
+  "inputBox":{
+    "marginBottom": "20",
+    "width": "550px",
+    "margin": "20px auto auto auto",
+    "borderRadius": "10px"
+  },
+  "titleBox": {
+    "background": "#03396c"
+  },
+  "title": {
+    "textAlign": "center",
+    "color": "white"
+  },
+  "form": {
+    "textAlign": "center"
+  },
+  "TextField": {
+    "margin": "3.5% auto 3.5% auto"
+  },
+  "button": {
+    "margin": "3.5% auto auto auto",
+    "color": "grey",
+    "position": "relative"
+  },
+  "progress": {
+    "position": "absolute",
+    "color": "grey"
+  },
+  "progressPos": {
+    "marginTop": "20px",
+    "marginLeft": "50%"
+  },
+  "formTitle": {
+    "textAlign": "center"
+  },
+  "root": {
+    "marginBottom": "20",
+    "width": "600px"
+  },
+  "media": {
+    "marginLeft": "20px",
+    "marginTop": "20px",
+    "height": "50px",
+    "width": "50px"
+  },
+  "profileMedia": {
+    "marginLeft": "40px",
+    "marginTop": "20px",
+    "height": "100px",
+    "width": "100px",
+    "backgroundPosition" : "center"
+    
+  },
+  "content": {
+    "padding": "20"
+    },
+    "navbar" : {
+      "background": "#03396c ",
+      "position": "right"
+    },
+    "remove_card_button" : {
+      "height": "20px",
+      "color":"grey",
+      "marginRight": "10px",
+      "display": "flex", 
+      "justifyContent": "right"
+      
+    }
+}
+
